@@ -1,0 +1,20 @@
+.position {
+    border: 2px dashed #00ffe1;
+    border-radius: 8px;
+    height: 74px;
+    width: 74px;
+}
+.box {
+    background-image: linear-gradient(160deg,rgba(0,148,233,0.762),rgba(128,208.199,0.1));
+    border-radius: 8px;
+    height: 70px;
+    width:28px;
+    font-size: xx-large;
+}
+.container {
+    border: 2px solid #00ffe1;
+    border-radius: 10px;
+    padding:15px;
+    width: 80vh;
+    height: 80vh;
+}
